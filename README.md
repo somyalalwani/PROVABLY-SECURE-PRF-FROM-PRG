@@ -1,1 +1,7 @@
 # PROVABLY-SECURE-PRF-FROM-PRG
+
+## STEPS TO RUN THE FILES
+`python3 code.py`
+Enter seed : `10101011010011`
+Enter k : `10111`
+
